@@ -46,8 +46,8 @@ THE SOFTWARE.
   spec.swift_version = "4.2"
 
 
-  spec.source       = { :git => "https://github.com/narangkishore98/DotBar.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/narangkishore98/Validator.git", :tag => "#{spec.version}" }
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}", "DotBar/**/*.{h,m,swift}"
+  spec.source_files  = "Classes", "Classes/**/*.{h,m}", "Validator/**/*.{h,m,swift}"
 
 end
